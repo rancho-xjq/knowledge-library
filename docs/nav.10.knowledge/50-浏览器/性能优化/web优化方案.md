@@ -231,6 +231,9 @@ https://github.com/addyosmani/critical
 https://github.com/anthonygore/html-critical-webpack-plugin
 https://github.com/filamentgroup/criticalCSS
 https://github.com/pocketjoso/penthouse
+webpack插件与使用
+https://github.com/anthonygore/html-critical-webpack-plugin
+https://vuejsdevelopers.com/2017/07/24/critical-css-webpack/
 
 使用以下代码去异步的方式进行加载非关键css
 <link rel="preload" href="styles.css" as="style" onload="this.onload=null;this.rel='stylesheet'">
